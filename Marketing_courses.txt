@@ -1,0 +1,36 @@
+**Stefan Georgi - RMBC II**
+
+INTRO AND overview
+
+Welcome to RMBC II and In-Depth Course overview
+
+- Part 1 
+is all the foundational stuff. It's heavily recommended you go through as much of this material as possible.
+Context is a recurring theme. All advertising starts with market awareness.
+
+part 2
+how to research for your product. You will get three research documents, product/market, competitor, psychographic.
+this will be relevant for the actual copy generation
+
+part 3 
+is on unique mechanisms (this will be a overview on the subject itself if you don't know what they are)
+
+part 4
+VSL copy part 1. You need to understand it in order to use AI later on
+
+part 5
+previous parts but now we use LLMs
+
+part 6
+create the actual VSL using Claude
+
+part 7 
+Summarizing everything so far
+
+part 8
+tons of case studies
+
+part 9
+why are some product pages long, why are some short
+
+part 10
