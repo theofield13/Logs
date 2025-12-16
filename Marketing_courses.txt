@@ -6,7 +6,8 @@ Stefan Georgi - RMBC II
 INTRO AND overview
 #################################
 
-Welcome to RMBC II and In-Depth Course overview
+01 WELCOME TO RMBC II AND IN-DEPTH COURSE OVERVIEW
+
 
 - Part 1 
 is all the foundational stuff. It's heavily recommended you go through as much of this material as possible.
@@ -44,11 +45,30 @@ part 11
 walkthrough 
 
 part 12
+checklist of things that determine how your funnel should look like
 
 part 13
+how do we create re-peat buyers?
 
 part 14
+Email marketing journeys 
 
 part 15
+Bonuses with some good people
 
-part 16
+
+
+02 FOUNDATIONAL KNOWLEDGE AND THE STATE OF DTC MARKETING IN 2025
+
+- What is copywriting?
+    - definition: the art and science of writing ads 
+- The two crucial customer journeys you need to understand- What sales funnels look like in 2025
+    - #1 from prospect to buyer and #2 from customer to repeat customer
+- The true purpose of direct respone marketing
+    - writing ads and other marketing materials designed to get a prospective customer to take an immediate, measurable action
+- Context is king: Why all advertising starts with product/market awareness and platform-specific strategies
+    - YT ad => VSL
+    - News site => article looking ad
+    - the price of the product impacts how we sell
+- The RMBC II apporach: Simplifying complexity & leveraging AI
+
