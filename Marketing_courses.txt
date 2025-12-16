@@ -1,6 +1,10 @@
-**Stefan Georgi - RMBC II**
+#################################
+Stefan Georgi - RMBC II
+#################################
 
+#################################
 INTRO AND overview
+#################################
 
 Welcome to RMBC II and In-Depth Course overview
 
@@ -34,3 +38,17 @@ part 9
 why are some product pages long, why are some short
 
 part 10
+why should the checkout differ between products?
+
+part 11
+walkthrough 
+
+part 12
+
+part 13
+
+part 14
+
+part 15
+
+part 16
