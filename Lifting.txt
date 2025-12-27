@@ -28,12 +28,12 @@ neck extension
 - 8 @ 10
 Smith shrugs
 - W: 40 + 50
-- 7 @ 60
-- 7 @ 60
+- 5 @ 70
+- 5 @ 70
 Smith upright row
-- W @ 10
-- 7 @ 15
-- 7 @ 15
+- W @ 15
+- 4 @ 20
+- 4 @ 20
 Barbell bench press
 W 40 + 50
 4 @ 60
