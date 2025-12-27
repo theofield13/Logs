@@ -20,12 +20,12 @@ WEEK 52
 
 2025-12-27 UPPER
 smith throws
-w -
--
--
-neck flexion
-- 7 @ 15
-- 7 @ 15
+w - 0
+- 4 @ 20
+- 4 @ 20
+neck extension
+- 8 @ 10
+- 8 @ 10
 Smith shrugs
 - W: 40 + 50
 - 7 @ 60
