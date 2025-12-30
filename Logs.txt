@@ -472,7 +472,8 @@ This is where long-term confidence is built.
 ###
 Journal Review
 ###
-Now you have your basic journal: 1) sentence mission and objective written in their as achieved or not - add in a number for hours of deep work, 
+Now you have your basic journal: 
+1) sentence mission and objective written in their as achieved or not - add in a number for hours of deep work, 
 2) what you need to implement tomorrow and 
 3) current assumption on what the root issue is
 
