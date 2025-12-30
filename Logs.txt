@@ -1,11 +1,16 @@
 2025-12-30
 adam W side control escape
 download and add Octopus guard to drive
-Spend an whole hour reading on FI papers (deep work style)
+Spend an hour reading on FI papers (deep work style)
 - Q: vad är gaprisk, kreditspreadrisk, basisrisk?
+	- Gaprisk: t.ex. banken har gett ut bolån på 3 år med fast ränta. 
+	  Detta har finansierats med rörlig ränta, om markandsränta stiger => kostnad för utlåning stiger men "inlåning vinst öker inte på 3 år"
+	- Kreditspreadrisk är risken att värdet på ett räntepapper faller när kreditspreaden (riskpremien ovanpå “riskfri ränta”) 
+	  ökar, även om den riskfria räntan inte rör sig
 - Q: vad är handelsrisk?
-- Q: Gör DNB C själva beslutet att de måste uppfylla Pelare ?
-- Q vad står ÖUP för?
+- Q: har DNBC ej någon trading bok?
+- Q vad står ÖUP för
+	- Översyns- och utvärderingsprocess
 
 solve todays Suduko
 kolla med Calle om stolarna
