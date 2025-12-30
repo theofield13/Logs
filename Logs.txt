@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+2025-12-23
+Utgifter som snuffe tagit:
+KLARNA: mamma och pappa julklapp 798
+KLARNA: Daniel julklapp 920
+
+
+
+2025-12-22
+=======
 2025-12-30
 adam W side control escape
 download and add Octopus guard to drive
@@ -11,6 +21,7 @@ start to read Customer Value Optimization
 
 
 2025-12-22
+>>>>>>> 8403d4bf0c8793b1f0b1cf488869ed8f29c215a3
 Download Bronson trilogy, Turner Diaries, Hunter, My secret garden (Nancy Friday)
 start to read Customer Value Optimization
 adam W side control escape 
