@@ -20,11 +20,11 @@ Beräkna kostander för maten
 - måste addera för dryck och sedan skriva
 
 1) sentence mission and objective written in their as achieved or not - add in a number for hours of deep work (“The main goal is WiFi money and I will demand test every X days until Y result”)
-- Complete RMBC course and I will complete at least 2 sections per week, 1h15m
+- Complete RMBC course and I will complete at least 2 sections per week until all sections are done, 1h15m
 2) what you need to implement tomorrow and 
--
+- Minimum output (30 min) is I get the chance, will work on RMBC II
 3) current assumption on what the root issue is
--
+- sitting my ass down and actually work. Probably it's my personal computer that hinders me
 
 2025-12-30
 adam W side control escape
