@@ -1,7 +1,17 @@
+2026-01-07
+Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
+- är ICAAP/ILAAP bara ett sätt att uttrycka kapital- /likviditets-risker för att redovisa att man uppfyller pelare 2 krav?
+
+
+
 2026-01-02
 Jobba på DNBC uppgift via 1 deep work session
-- vad står ICLAAP för? ILAAP?
+- completed!
+- Läste Metodpropmemoria från FI
+- Läste Ändringspromemoria från FI
+- vad står ICLAAP för? ILAAP? => Internal Capital/Liquidity Adequacy assignment process 
 Deep work session #2 -- RMBC II 
+Kolla in NY pizzeria deras logs
 
 skriva till Amanda
 - gjort. Inväntar svar
@@ -32,6 +42,7 @@ Spend an hour reading on FI papers (deep work style)
 read Bowtied substack article
 - will start on Friday the second with this life protocol
 kolla med Calle om stolarna
+- levererade
 
 Download Bronson trilogy, Turner Diaries, Hunter
 start to read Customer Value Optimization
