@@ -2,6 +2,16 @@
 Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
 - är ICAAP/ILAAP bara ett sätt att uttrycka kapital- /likviditets-risker för att redovisa att man uppfyller pelare 2 krav?
 
+
+#####################################
+
+
+2026-01-03
+Lämna tillbaka stolarna
+
+#####################################
+
+
 2026-01-02
 Deep work session #2 -- RMBC II 
 - Did 2 hours instead of 2.5 because I was interrupted
@@ -17,6 +27,8 @@ Beräkna kostander för maten
 - måste addera för dryck och sedan skriva
 Kolla in NY pizzeria deras logs
 - Done. Created a logs in Google Sheets
+
+#####################################
 
 2025-12-30
 adam W side control escape
