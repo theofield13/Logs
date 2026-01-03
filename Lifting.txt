@@ -25,16 +25,16 @@ neck flexio
 - 8 @ 15
 Smith shrugs
 - W: 40 + 60
-- 5 @ 70
-- 6 @ 70
+- 7 @ 70
+- 7 @ 70
 Rack chins
 - 5
 - 5
 - 5
 Smith upright row
 - W @ 15
-- 7 @ 20
-- 5 @ 20
+- 5 @ 25
+- 5 @ 25
 Barbell bench press
 W 40 + 50
 6 @ 60
