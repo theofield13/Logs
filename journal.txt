@@ -1,21 +1,3 @@
-Amount of hours of deep work
-
-Do I follow the KPI?
-
-1) sentence mission and objective written in 
-their as achieved or not 
-- add in a number for hours of deep work 
-(“The main goal is WiFi money 
-and I will demand test every X days until Y result”)
-
-2) what you need to implement tomorrow
-
-3) current assumption on what the root issue is
-
-4) current body weight (afternoon)
-
-##################################
-
 2026-01-03
 
 0.5 hours of deep work 
@@ -47,3 +29,21 @@ Many: my phone, dopamine is fried.
 I'm working on it
 
 94.0
+
+##################################
+
+Amount of hours of deep work
+
+Do I follow the KPI?
+
+1) sentence mission and objective written in 
+their as achieved or not 
+- add in a number for hours of deep work 
+(“The main goal is WiFi money 
+and I will demand test every X days until Y result”)
+
+2) what you need to implement tomorrow
+
+3) current assumption on what the root issue is
+
+4) current body weight (afternoon)
