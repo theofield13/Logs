@@ -24,7 +24,7 @@ neck flexio
 - 8 @ 15
 - 8 @ 15
 Smith shrugs
-- W: 40 + 50
+- W: 40 + 60
 - 5 @ 70
 - 6 @ 70
 Rack chins
