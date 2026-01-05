@@ -54,8 +54,8 @@ Rack chins
 - 5
 Smith upright row
 - W @ 15
-- 5 @ 25
-- 5 @ 25
+- 6 @ 25
+- 6 @ 25
 Barbell bench press
 W 40 + 50
 7 @ 60
