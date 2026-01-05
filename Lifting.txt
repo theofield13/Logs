@@ -60,9 +60,9 @@ Smith upright row
 - 6 @ 25
 - 6 @ 25
 Barbell bench press
-W 40 + 50
-7 @ 60
-5 @ 60
+W 40 + 60
+3 @ 70
+3 @ 70
 lower trap cable raise
 - w 10
 - 8 @ 10
