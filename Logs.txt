@@ -1,6 +1,17 @@
 2026-01-07
 Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
 - är ICAAP/ILAAP bara ett sätt att uttrycka kapital- /likviditets-risker för att redovisa att man uppfyller pelare 2 krav?
+- 
+
+#####################################
+
+2026-01-06
+Deep work session #1 : DNBC
+- understand ICAAP process better
+- Q: princip #6 i ICAAP => är det denna validering vi gör?
+
+Gym upper day
+Deep work session #2 : RMBC II
 
 
 #####################################
@@ -8,6 +19,7 @@ Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
 
 2026-01-03
 Lämna tillbaka stolarna
+
 
 #####################################
 
