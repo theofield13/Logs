@@ -28,16 +28,18 @@ RDL
 Leg extensions
 * W → 70
 * 6 → 80
-* 6 → 80
 Hamstring curls
 * w: 61
 * 4 → 81
-* 3 → 81
 Calfs 
-* 5 → 140 x2
+* 5 → 140 
 one-arm preacher curl 
 - w 12
 - 6 @ 16
+cable reverse curls
+- w @ ?
+?
+?
 
 2026-01-05 UPPER
 smith throws
