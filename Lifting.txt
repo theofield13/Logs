@@ -22,17 +22,17 @@ Front squats
 - 3 → 80
 - 3 → 80
 RDL
-* w: 70 90
-* 5 → 100
-* 5 → 100
+- w: 70 90
+- 5 → 100
+- 5 → 100
 Leg extensions
-* W → 70
-* 6 → 80
+- W → 70
+- 6 → 80
 Hamstring curls
-* w: 61
-* 4 → 81
+- w: 61
+- 4 → 81
 Calfs 
-* 5 → 140 
+- 5 → 140 
 one-arm preacher curl 
 - w 12
 - 6 @ 16
