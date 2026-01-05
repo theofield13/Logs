@@ -5,7 +5,7 @@ Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
 
 #####################################
 
-2026-01-06
+2026-01-05
 Deep work session #1 : DNBC
 - understand ICAAP process better
 - difference between P1 and P2
