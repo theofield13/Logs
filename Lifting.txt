@@ -35,6 +35,9 @@ Hamstring curls
 * 3 → 81
 Calfs 
 * 5 → 140 x2
+one-arm preacher curl 
+- w 12
+- 6 @ 16
 
 2026-01-05 UPPER
 smith throws
@@ -62,11 +65,9 @@ W 40 + 50
 5 @ 60
 lower trap cable raise
 - w 10
-- 6 @ 17.5
-- 6 @ 17.5
-one-arm preacher curl 
-- w 12
-- 6 @ 16
+- 8 @ 10
+- 8 @ 10
+
 one-arm tricep pushdowns
 - w @ 15?
 - 7 @ 22.5?
