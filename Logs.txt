@@ -1,9 +1,12 @@
 2026-01-07
 Meeting with Alexandra in the morning
--Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
+- Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
 - är ICAAP/ILAAP bara ett sätt att uttrycka kapital- /likviditets-risker för att redovisa att man uppfyller pelare 2 krav?
 - Varför är det bara risker utanför handelslagret som är inom gränser för Pelare 2? (Handelslagret: positioner i finansiella instrument och råvor som hålls för trading intent?)
+
 Deep work session #1 -- RMBC II
+Print out label for dhl package
+
 
 #####################################
 
