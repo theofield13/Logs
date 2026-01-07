@@ -1,7 +1,6 @@
 2026-01-07
 Meeting with Alexandra in the morning
 - Vad är kopplingen mellan ICAAP/ILAAP samt Pelare 2?
-- Varför är det bara risker utanför handelslagret som är inom gränser för Pelare 2? (Handelslagret: positioner i finansiella instrument och råvor som hålls för trading intent?)
 
 Deep work session #1 -- RMBC II
 Print out label for dhl package
