@@ -23,10 +23,10 @@ Low row machine lats (höjd 6)
 W: 30 + 40
 7 → 60
 7 → 80
-Dumbell shoulder press
-- w: 20
-- 5 @ 22
-- 4 @ 22
+smith behind the neck shoulder press
+- w: 0
+- 5 @ 10
+- 5 @ 10
 alternating db biceps curls
 - w @ 12.5 + 17.5
 - 4 @ 20
