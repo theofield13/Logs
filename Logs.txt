@@ -1,5 +1,13 @@
 #####################################
 
+2026-01-12
+blueberries for breakfast
+i. one deep work session -- write in validation report
+ii. second deep work session -- continue on RMBC II
+iii. write out plans in operating system
+
+#####################################
+
 2026-01-09
 Ask Alexandra how many stress testing points we should have
 Unclear wether how many of the numbers in stressed scenario is wrong besides the fixed on in the top bunch
