@@ -63,8 +63,8 @@ Barbell bench press
 W 40 + 60
 3 @ 70
 3 @ 70
-lower trap cable raise
-- w 10
+trap 3 raise
+- w 6
 - 8 @ 10
 - 8 @ 10
 
