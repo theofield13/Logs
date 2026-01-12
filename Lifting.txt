@@ -50,14 +50,12 @@ neck extensions
 Smith shrugs
 - W: 50 + 70
 - 5 @ 80
-- 5 @ 80
 Rack chins
 - 6
 - 6
 - 5
 Smith upright row
 - W @ 15
-- 6 @ 25
 - 6 @ 25
 Chest press machine neutral grip
 W 40 + 60
@@ -69,7 +67,10 @@ trap 3 raise
 - w 6
 - 8 @ 10
 - 8 @ 10
-
+pullovers
+- w 8
+- 5 @ 10
+- 5 @ 10
 one-arm tricep pushdowns
 - w @ 17.5
 - 7 @ 22.5
