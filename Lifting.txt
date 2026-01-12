@@ -50,9 +50,9 @@ neck extensions
 Smith shrugs
 - W: 50 + 70
 - 5 @ 80
-Rack chins
-- 6
-- 6
+banded pull ups
+- 5
+- 5
 - 5
 Smith upright row
 - W @ 15
