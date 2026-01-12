@@ -65,8 +65,8 @@ iso extreme push ups
 - 30 seconds
 trap 3 raise
 - w 6
-- 8 @ 10
-- 8 @ 10
+- 7 @ 8
+- 7 @ 8
 pullovers
 - w 8
 - 5 @ 10
