@@ -1,7 +1,7 @@
 #####################################
 
 2026-01-12
-i. one deep work session -- write in validation report
+one deep work session -- write in validation report
 - session ended up being 55 minutes -- OK
 write out plans in operating system
 - done
