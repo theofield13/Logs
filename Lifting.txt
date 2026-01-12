@@ -49,7 +49,7 @@ neck extensions
 - 3 @ 20
 Smith shrugs
 - W: 50 + 70
-- 5 @ 80
+- 5 @ 90
 banded pull ups
 - 5
 - 5
