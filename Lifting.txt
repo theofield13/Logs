@@ -65,12 +65,8 @@ iso extreme push ups
 - 30 seconds
 trap 3 raise
 - w 6
-- 7 @ 8
-- 7 @ 8
-pullovers
-- w 8
-- 5 @ 10
-- 5 @ 10
+- 4 @ 7
+- 4 @ 7
 one-arm tricep pushdowns
 - w @ 17.5
 - 7 @ 22.5
