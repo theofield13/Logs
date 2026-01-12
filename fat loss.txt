@@ -6,8 +6,9 @@ Ingrediens                      | Kalorier (kcal) | Protein (g) | Kolhydrater (g
 0,3 L mjölk 0,5% fett (300 ml)  | 114             | 10.8        | 14.1            | 1.5
 3 kokta ägg                     | 234             | 18.9        | 1.8             | 15.9
 25 g 100% Cyclic Dextrin Carbs  | 95              | 0           | 24              | 0
+1 röd Lindor kula (ca 12 g)     | 73              | 1           | 5               | 5.7
 --------------------------------|-----------------|-------------|-----------------|---------
-Totalt                          | 586             | 56.7        | 42.1            | 20.1
+Totalt                          | 659             | 57.7        | 47.1            | 25.8
 
 
 - incorporate carbs + zero fat for the first hours
