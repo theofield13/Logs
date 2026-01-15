@@ -274,6 +274,8 @@ add RMBC to drive
 ###########################################################################################################################
 ###########################################################################################################################
 
+https://jeffhuang.com/productivity_text_file/
+
 My productivity app is a never-ending .txt file
 By Jeff Huang, updated on 2022-03-21
 The biggest transition for me when I started college was learning to get organized. There was a point when I couldn't just remember everything in my head. And having to constantly keep track of things was distracting me from whatever task I was doing at the moment.
