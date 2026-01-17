@@ -18,9 +18,9 @@ W: 50 + 55
 7 → 70
 7 → 70
 row machine traps
-- w @ X
-- 6 @ X
-- 6 @ x 
+- w @ 40 45
+- 6 @ 60
+- 6 @ 60
 barbell behind the neck shoulder press
 - 20 kg x 6 x 3
 alternating db biceps curls
