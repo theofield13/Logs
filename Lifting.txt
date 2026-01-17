@@ -14,9 +14,9 @@ Safety bar Reverse lunge
 - w @ 42 + 52
 - 3 @ 72
 row machine lats
-W: 30 + 40
-7 → 60
-7 → 80
+W: 50 + 55
+7 → 65
+7 → 65
 row machine traps
 - w @ X
 - 6 @ X
