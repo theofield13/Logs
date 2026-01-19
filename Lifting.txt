@@ -10,9 +10,8 @@ WEEK 4
 
 2026-01-19
 RDL
-- w: 70 90
-- 5 → 90 utan wraps
-- 6 → 100  wraps
+- w: 70 70
+- 5 → 90 
 pull ups
 - 5
 - 5
