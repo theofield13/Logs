@@ -9,7 +9,7 @@ Meeting with Alexandra to plan for delivery
 look up reviews of skyrim remastered on skryim forums
 - have to get to into Skyrim modding again
 work on Carnegie report
-- 
+- added input and output parameters table
 Write to Nina about potential ICAAP group?
 - I will ofc be allowed to join in when it's created
 
