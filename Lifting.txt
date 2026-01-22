@@ -22,8 +22,8 @@ W 40 + 60
 Leg extensions
 - W → 70
 - 6 → 80
-Hamstring curls
-- w: 61
+lying Hamstring curls
+- w: 53 + 67
 - 4 → 81
 Calfs 
 - 5 → 140 
