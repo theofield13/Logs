@@ -27,7 +27,7 @@ W: 60
 alternating db biceps curls
 - w @ 12.5 + 17.5
 - 5 @ 20
-- 4 @ 20
+- 5 @ 20
 overhead triceps extensions
 - w @ 35 45
 - 3 @ 55
