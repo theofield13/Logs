@@ -13,13 +13,13 @@ smith barbell throws:
 4 @ 20
 Smith shrugs
 - W: 50 + 70
-- 5 @ 90
+- 7 @ 90 x 2
 Safety bar Reverse lunge
 - w @ 42 + 52
 - 3 @ 72
 barbell behind the neck shoulder press
 - w @ 20 20
-- 6 @ 30
+- 4 @ 35
 row machine lats (techno gym)
 W: 50 + 55
 7 → 70
