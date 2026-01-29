@@ -5,6 +5,12 @@ WEEK 5
 
 low row orange 
 - w: 80 90
+- 6 @ 100
+- 6 @ 100
+rdl 
+- w @ 70 80
+- 6 @ 90
+- 6 @ 100
 
 2026-01-27
 leg press 
