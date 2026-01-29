@@ -10,7 +10,9 @@ low row orange
 rdl 
 - w @ 70 80
 - 6 @ 90
-- 6 @ 100
+- 4 @ 100
+db side laterals
+- w 
 
 2026-01-27
 leg press 
