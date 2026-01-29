@@ -12,7 +12,9 @@ rdl
 - 6 @ 90
 - 4 @ 100
 db side laterals
-- w 
+- w 7 10
+- 4 @ 12.5
+- 4 @ 12.5
 
 2026-01-27
 leg press 
