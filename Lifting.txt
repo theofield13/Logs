@@ -18,7 +18,7 @@ db side laterals
 Chest press machine neutral grip
 W 45 + 60
 - 6 @ 70
-- 6 @ 70
+- 4 @ 70
 
 2026-01-27
 leg press 
