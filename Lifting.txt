@@ -13,8 +13,12 @@ rdl
 - 4 @ 100
 db side laterals
 - w 7 10
-- 4 @ 12.5
-- 4 @ 12.5
+- 3 @ 12.5
+- 3 @ 12.5
+Chest press machine neutral grip
+W 45 + 60
+- 6 @ 70
+- 6 @ 70
 
 2026-01-27
 leg press 
