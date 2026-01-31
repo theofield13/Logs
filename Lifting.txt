@@ -17,7 +17,7 @@ incline bench
 - 5 @ 55
 barbell reverse lunge
 - w @ 40 + 50
-- 4 @ 70
+- 5 @ 70
 trap 3 raise
 - w 4
 - 6 @ 6
