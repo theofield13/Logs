@@ -12,6 +12,10 @@ smith barbell throws:
 Smith shrugs
 - W: 60 + 80
 - 6 @ 100 x 2
+incline bench
+- w : 45 55
+- 5 @ 55
+- 5 @ 55
 Safety bar Reverse lunge
 - w @ 42 + 52
 - 4 @ 72
