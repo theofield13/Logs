@@ -15,9 +15,9 @@ Smith shrugs
 incline bench
 - w : 45 55
 - 5 @ 55
-Safety bar Reverse lunge
-- w @ 42 + 52
-- 4 @ 72
+barbell reverse lunge
+- w @ 40 + 50
+- 4 @ 70
 trap 3 raise
 - w 4
 - 6 @ 6
