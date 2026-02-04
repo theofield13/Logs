@@ -1,8 +1,8 @@
 WEEK 6
 
 2026-02-04
-RDL
-- w: 70 70
+cable RDL
+- w: 47 54
 - 5 → 100
 - 5 @ 100
 banded pull ups
