@@ -3,7 +3,7 @@ WEEK 6
 2026-02-04
 cable RDL
 - w: 47 54
-- 5 → 68
+- 7 → 68
 - 5 @ 68
 banded pull ups
 - 6
