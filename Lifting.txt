@@ -13,7 +13,7 @@ smith behind the neck shoulder press
 - w @ 0 0
 - 4 @ 20
 - 4 @ 20
-low row machine traps (techno gym) orange
+low row machine traps (techno gym) orange height 4
 - w @ 40 50
 - 6 @ 60
 - 6 @ 60
