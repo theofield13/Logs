@@ -7,8 +7,8 @@ cable RDL
 - 5 @ 68
 banded pull ups
 - 6
-- 6
-- 6
+- 5
+- 5
 smith behind the neck shoulder press
 - w @ 0 0
 - 4 @ 20
