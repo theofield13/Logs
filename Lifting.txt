@@ -15,7 +15,7 @@ cable b stance rdl twist
 - 6 @ 40
 Leg extensions
 - W → 60 70
-- 4 → 85
+- 6 → 85
 - 4 @ 85
 lying Hamstring curls
 - w: 53 + 67
