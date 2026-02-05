@@ -9,10 +9,10 @@ Front squats
 - w @ 50 70
 - 4 → 80
 - 3 → 80
-rdl 
-- w @ 70 80
-- 6 @ 90
-- 4 @ 100
+cable b stance rdl twist
+- 10 @ 33
+- 6 @ 33
+- 6 @ 40
 Leg extensions
 - W → 70
 - 4 → 85
