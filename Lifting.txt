@@ -12,6 +12,10 @@ row machine lats (techno gym) orange height 2
 W: 60 70
 7 → 90
 7 → 90
+glute drive
+w 100 130
+- 5 @ 160
+- 5 @ 160
 
 2026-02-05
 weighted jumps
