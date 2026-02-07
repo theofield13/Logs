@@ -16,6 +16,15 @@ glute drive
 w 100 130
 - 5 @ 160
 - 5 @ 160
+alternating db biceps curls
+- w @ 12.5 + 17.5
+- 5 @ 20
+- 5 @ 20
+overhead triceps extensions
+- w @ 35 45
+- 4 @ 55
+- 4 @ 55
+
 
 2026-02-05
 weighted jumps
