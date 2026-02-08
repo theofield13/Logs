@@ -1,5 +1,12 @@
 #####################################
 
+2026-02-08
+Deep work session 1 -- scenario generator
+Watch The Pragmatic Engineer - Creator of Clawd: I shop code I don't read
+Make Skyr
+
+#####################################
+
 2026-02-02
 Make Skyr
 - set to 5 and boil for 50 minutes -- take note of temp next time
