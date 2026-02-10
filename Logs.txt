@@ -1,20 +1,21 @@
 #####################################
-#####################################
-#####################################
-#####################################
-#####################################
-#####################################
-#####################################
-#####################################
-#####################################
-#####################################
 
 
 #####################################
 
 2026-02-09
-Watch https://www.youtube.com/watch?v=zxMjOqM7DFs
+Deep work session #1: Watch https://www.youtube.com/watch?v=zxMjOqM7DFs
+- Outputs are entirely depending on our inputs -- shit input => shit output
+- Describe features that you want in your product instead of just a product 
+- general advice is to get really good at planning (use AskUserQuestionTool)
+-Rundown: 
+- 1) AskUserQuestionTool when planning 
+- 2.) don't obsess over MCP/skills etc 
+- 3) Use Ralph after successfully created a product without
+- 4) Context is more important than ever (50%)
 Watch The Pragmatic Engineer - Creator of Clawd: I shop code I don't read 
+- not that interesting tbh
+Meeting with Johan Alm 
 
 
 #####################################
