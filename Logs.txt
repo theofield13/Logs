@@ -1,5 +1,6 @@
 #####################################
-
+2026-02-10
+Add Garry Tonan DVD to Drive
 
 #####################################
 
@@ -15,6 +16,7 @@ Deep work session #1: Watch https://www.youtube.com/watch?v=zxMjOqM7DFs
 - 4) Context is more important than ever (50%)
 Watch The Pragmatic Engineer - Creator of Clawd: I shop code I don't read 
 - not that interesting tbh
+Cybersecurity e-mail
 
 Meeting with Johan Alm 
 https://www.youtube.com/watch?v=XWSialpk6OM
