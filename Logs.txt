@@ -1,15 +1,14 @@
 #####################################
 2026-02-10
-Add Garry Tonan DVD to Drive
 Cybersecurity e-mail
 Meeting with Johan Alm 
 https://www.youtube.com/watch?v=XWSialpk6OM
 
+Add Garry Tonan DVD to Drive
+- Done
 #####################################
 
 2026-02-09
-
-
 Deep work session #1: Watch https://www.youtube.com/watch?v=zxMjOqM7DFs
 - Outputs are entirely depending on our inputs -- shit input => shit output
 - Describe features that you want in your product instead of just a product 
