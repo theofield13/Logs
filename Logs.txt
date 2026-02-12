@@ -1,6 +1,5 @@
 #####################################
 2026-02-12
-
 https://www.youtube.com/watch?v=XWSialpk6OM
 Create and send to Alexandra PDP document
 Create a spec for claude project
