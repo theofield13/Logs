@@ -1,8 +1,10 @@
 #####################################
 2026-02-12
 https://www.youtube.com/watch?v=XWSialpk6OM
-Create and send to Alexandra PDP document
-Create a spec for claude project
+Create a business case 
+- use example of the ICAAP Johan created
+- what data would be required?
+- exactly what external FREE data can we use?
 
 Meeting with Johan Alm 
 - Updated on my current situation
@@ -12,7 +14,10 @@ Meeting with Johan Alm
 	- could it be improved?
 	- what components would be used for creating scenarios in this context?
 	- how would the process look like for Advisense to validate this ICAAP at a client?
-
+Create and send to Alexandra PDP document
+- Done
+Create a spec for claude project
+- The implementation had to pause due to token limit reached
 #####################################
 2026-02-11
 
