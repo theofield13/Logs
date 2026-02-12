@@ -1,14 +1,19 @@
 #####################################
-2026-02-10
+2026-02-12
 Meeting with Johan Alm 
 https://www.youtube.com/watch?v=XWSialpk6OM
 Create and send to Alexandra PDP document
 Create a spec for claude project
 
+#####################################
+2026-02-11
+
 Cybersecurity e-mail
 - done. Looks like Caroline will get an interview
 Add Garry Tonan DVD to Drive
 - Done
+Attend first meeting of SME group
+- summarized our AI stress tests for the group
 
 #####################################
 
