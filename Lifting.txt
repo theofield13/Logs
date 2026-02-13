@@ -29,8 +29,8 @@ wide stance jefferson curls
 -
 facepulls lifeFitness
 - w @ 6 9.5
-- 6 @ 12.5
-- 6 @ 12.5
+- 6 @ 13.5
+- 6 @ 13.5
 
 2026-02-19
 Reverse banded hack squat
