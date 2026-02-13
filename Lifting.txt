@@ -16,8 +16,9 @@ lying Hamstring curls
 - 4 → 81
 - 4 @ 81
 incline barbell bench
-- w : 45 55
-- 5 @ 55
+- w : 40 45
+- 6 @ 50
+- 6 @ 50
 Incline DB row
 - w @ 17.5 20
 - 7 @ 22.5 need better form
