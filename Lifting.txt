@@ -27,8 +27,8 @@ Incline DB row
 wide stance jefferson curls
 - 
 -
-facepulls
-- w @ 6 7.5 10
+facepulls lifeFitness
+- w @ 6 9.5
 - 6 @ 12.5
 - 6 @ 12.5
 
