@@ -15,6 +15,9 @@ w 100 130
 - 7 @ 160
 reverse nordics
 poliquin press
+- w @ 60 70 
+- 4 @ 75
+- 4 @ 75
 elevated bridge
 
 2026-02-13
