@@ -11,8 +11,8 @@ w @ 33 47
 7 @ 68
 7 @ 
 Quad leg press (horizontal)
-w @ 
-7 @ 
+w @ 55 75
+7 @ 95
 7 @ 
 barbell good mornings
 w @ 
