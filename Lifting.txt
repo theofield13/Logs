@@ -20,8 +20,8 @@ one-arm preacher curl on bench 50 c
 - 5 @ 15
 facepulls lifeFitness
 - w @ 6 9.5
-- 6 @ 13.5
-- 6 @ 13.5
+- 5 @ 16.5
+- 5 @ 16.5
 
 
 2026-02-17
