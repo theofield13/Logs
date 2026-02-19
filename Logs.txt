@@ -1,5 +1,16 @@
 #####################################
 
+2026-02-19
+Meeting with Håkan
+
+Meeting with Alexandra
+- Create a kravspec for a MVP
+- Validate this MVP
+- Start with capital
+- motivate the heuristics
+
+#####################################
+
 2026-02-17
 BJJ questions of the day
 One-hour deep work after lunch 
