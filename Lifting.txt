@@ -713,7 +713,7 @@ Jumps
 
 reverse nordics 
 barbell rdl 
-Shoulder press 
+barbell incline press
 incline db row 
 
 front splits "reps" -- pillow under back leg, use slider for front leg
@@ -723,7 +723,7 @@ Facepulls
 Jumps 
 
 Quad leg press 
-barbell incline press 
+Shoulder press 
 Machine kelso 
 
 Wide stance jefferson curl
