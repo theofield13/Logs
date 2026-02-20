@@ -68,6 +68,7 @@ you want to add clarity to the process itself, not just the end result
 if you know exactly how the model should approach a task, break it down into explicit steps and sequence them intentionally
 or at minimum, ask the AI to explain its approach first before it starts creating anything, then you can refine that approach to match what you need
 this matters especially for anything that requires original thinking or non-standard structure, because the model's default approach will always be whatever it saw most frequently during training
+
 > rule 4: what do you want your output to look like?
 people run deep research prompts daily, they give the model context and sources and detailed instructions... and they end up getting a twenty page document that's barely usable out of the batch
 you can specify the exact format you want for any output
