@@ -1,8 +1,14 @@
 #####################################
 
-2026-02-19
-Meeting with Håkan
+2026-02-20
+Read Dan Koe articles
 
+Booked a meeting with Håkan
+Watched Meregali S-mount
+
+#####################################
+
+2026-02-19
 Meeting with Alexandra
 - Create a kravspec for a MVP
 - Validate this MVP
