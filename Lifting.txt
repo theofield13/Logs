@@ -712,7 +712,7 @@ Neck flexion
 Jumps 
 
 reverse nordics 
-hip thrusts 
+barbell rdl 
 Shoulder press 
 incline db row 
 
@@ -723,7 +723,6 @@ Facepulls
 Jumps 
 
 Quad leg press 
-barbell rdl 
 barbell incline press 
 Machine kelso 
 
@@ -731,4 +730,11 @@ Wide stance jefferson curl
 
 D
 Farmers walk 
-Jumps 
+Jumps
+
+hamstring curls
+calfs 
+DB bench press
+Supinated grip cable row
+Quad leg press (horizontal)
+barbell good mornings
