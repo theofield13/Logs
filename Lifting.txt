@@ -7,8 +7,8 @@ Neck extensions
 
 front squat
 - w @ 50 70
-- 3 → 80
-- 3 → 80
+- 4 → 80
+- 4 → 80
 barbell rdl
 - w @ 70 80
 - 4 @ 110
