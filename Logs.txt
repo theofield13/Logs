@@ -1,5 +1,10 @@
 #####################################
 
+2026-02-24
+Konta Zoran om service + kamrem
+
+#####################################
+
 2026-02-20
 Read Dan Koe articles
 Try out H3.0 prompt
