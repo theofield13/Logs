@@ -19,7 +19,8 @@ Quad leg press (horizontal)
 w @ 75 95
 7 @ 115
 5 @ 115
-machine preacher curls one arm
+machine preacher curls 
+- w @ 20 27.5
 machine triceps one arm
 - w @ 20 27.5
 - 4 @ 27.5
