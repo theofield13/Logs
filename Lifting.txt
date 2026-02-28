@@ -22,6 +22,9 @@ w @ 75 95
 5 @ 115
 machine preacher curls 
 - w @ 20 27.5
+- 7 @ 45
+- 7 @ 45
+- MAX @ 35 - 7
 machine triceps one arm
 - w @ 20 27.5
 - 4 @ 27.5
