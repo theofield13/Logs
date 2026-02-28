@@ -22,6 +22,9 @@ w @ 75 95
 machine preacher curls one arm
 machine triceps one arm
 - w @ 20 27.5
+- 4 @ 27.5
+- 4 @ 27.5
+- MAX @ 20
 
 2026-02-24
 DB bench press
