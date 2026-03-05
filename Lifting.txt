@@ -15,8 +15,8 @@ incline barbell bench
 - 6 @ 55
 Incline DB row (30-45 c)
 - w @ 15 17.5
-- 5 @ 20 
-- 5 @ 20 
+- 7 @ 20 
+- 7 @ 20 
 facepulls lifeFitness
 - w @ 6 9.5
 - 5 @ 16.5
