@@ -7,10 +7,10 @@ facepulls lifeFitness
 - w @ 6 13
 - 5 @ 16.5
 - 5 @ 16.5
-machine preacher curls 
-- w @ 20 27.5
-- 7 @ 45
-- 7 @ 45
+machine preacher curls hammer strength
+- w @ 20 30
+- 3 @ 40
+- 3 @ 40
 - MAX @ 35 - 7
 machine triceps one arm
 - w @ 20 27.5
