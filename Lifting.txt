@@ -11,6 +11,8 @@ Supinated grip cable row
 w @ 47 61
 4 @ 75
 4 @ 75
+single arm cable Y raise:
+6 @ 6 x 2
 
 2026-03-08
 trap 3 raise
