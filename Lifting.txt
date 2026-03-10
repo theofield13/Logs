@@ -7,6 +7,10 @@ incline barbell bench
 - w : 40 45
 - 7 @ 55
 - 7 @ 55
+Supinated grip cable row
+w @ 47 61
+4 @ 75
+4 @ 75
 
 2026-03-08
 trap 3 raise
