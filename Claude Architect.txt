@@ -9,7 +9,7 @@ Week 1: Agentic Loops (Domain 1)
 □ Add a PostToolUse hook to normalize data formats
 □ Add a tool call interception hook to block policy violations
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
 
 Week 2: Tool Design (Domain 2)
 
@@ -18,7 +18,7 @@ Week 2: Tool Design (Domain 2)
 □ Configure .mcp.json with environment variable expansion
 □ Test tool_choice forced selection
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
 
 Week 3: Claude Code Config (Domain 3)
 
@@ -27,7 +27,7 @@ Week 3: Claude Code Config (Domain 3)
 □ Build a custom skill with context: fork
 □ Test plan mode on multi-file refactor vs direct execution on single bug fix
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
 
 Week 4: Prompt Engineering (Domain 4)
 
@@ -35,8 +35,7 @@ Week 4: Prompt Engineering (Domain 4)
 □ Implement validation-retry loop
 □ Run a batch through the Batches API
 □ Add 2-4 few-shot examples for ambiguous cases
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
+─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
 
 Week 5: Context Management (Domain 5)
 
