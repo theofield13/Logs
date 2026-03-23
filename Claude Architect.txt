@@ -1,45 +1,12 @@
 https://x.com/hooeem/status/2033198345045336559
 https://x.com/coreyganim/status/2033267421490864546
 
-Week 1: Agentic Loops (Domain 1)
 
-□ Read Agent SDK Overview docs
-□ Build a multi-tool agent with 3-4 MCP tools
-□ Implement proper stop_reason handling
-□ Add a PostToolUse hook to normalize data formats
-□ Add a tool call interception hook to block policy violations
+https://x.com/heynavtoor/status/2035787873665085543?s=46 
 
-─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
+WEEK 1: CLAUDE 101
 
-Week 2: Tool Design (Domain 2)
 
-□ Write tool descriptions that actually differentiate similar tools
-□ Create structured error responses with all 4 categories (transient, validation, business, permission)
-□ Configure .mcp.json with environment variable expansion
-□ Test tool_choice forced selection
 
-─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
 
-Week 3: Claude Code Config (Domain 3)
 
-□ Set up CLAUDE.md hierarchy (user + project + directory level)
-□ Create .claude/rules/ with glob patterns for test files
-□ Build a custom skill with context: fork
-□ Test plan mode on multi-file refactor vs direct execution on single bug fix
-
-─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
-
-Week 4: Prompt Engineering (Domain 4)
-
-□ Build an extraction tool with JSON schema (required, optional, nullable fields)
-□ Implement validation-retry loop
-□ Run a batch through the Batches API
-□ Add 2-4 few-shot examples for ambiguous cases
-─────────────────────────────────────────────────────────────── 𝛂 ───────────────────────────────────────────────────────────────────────
-
-Week 5: Context Management (Domain 5)
-
-□ Build coordinator + 2 subagents
-□ Implement persistent "case facts" block
-□ Simulate timeout with structured error propagation
-□ Test with conflicting sources, verify attribution survives
