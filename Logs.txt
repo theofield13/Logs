@@ -1,7 +1,8 @@
 2026-03-23
-Skapa krav på datamodell
-prissättning
+Create a data requirement for ICLAAP
+Create pricing model
 1 hour deep work Claude architect
+
 
 2026-03-22
 Danslektioner
