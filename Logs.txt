@@ -1,9 +1,11 @@
-2026-03-23
+2026-03-24
 Read documents on Palantir ICLAAP project
 create 12 week plan for Claude architect
  - https://x.com/heynavtoor/status/2035787873665085543?s=46
 1 hour deep work Claude architect
 
+
+2026-03-23
 Create a data requirement for ICLAAP
 - done
 Create pricing model
