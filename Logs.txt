@@ -1,9 +1,12 @@
+──────────────────────────────────────── 𝛂 ────────────────────────────────────────
+
 2026-03-24
 Read documents on Palantir ICLAAP project
 create 12 week plan for Claude architect
  - https://x.com/heynavtoor/status/2035787873665085543?s=46
 1 hour deep work Claude architect
 
+──────────────────────────────────────── 𝛂 ────────────────────────────────────────
 
 2026-03-23
 Create a data requirement for ICLAAP
@@ -11,11 +14,15 @@ Create a data requirement for ICLAAP
 Create pricing model
 - done
 
+──────────────────────────────────────── 𝛂 ────────────────────────────────────────
+
 2026-03-22
 Danslektioner
 - ska ringa om någon vecka och höra med dem
 Trycksaker
 - skapat en lista på trycksaker
+
+──────────────────────────────────────── 𝛂 ────────────────────────────────────────
 
 2026-03-13
 re-read the Dan Koe article with proper links
