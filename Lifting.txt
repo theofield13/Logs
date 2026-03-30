@@ -2,7 +2,7 @@
 machine preacher curls hammer strength
 - w @ 20 30
 - 4 @ 35
-- 3 @ 35
+- 4 @ 35
 incline barbell bench
 - w : 40 50
 - 5 @ 60
