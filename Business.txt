@@ -1,3 +1,8 @@
 read this @SPEC.md and interview me in detail using the AskUserQuestion about literally anything: technical implementation, UI & UX, concerns, tradeoffs, etc. but make sure the questions are not obvious
 
 be very in-depth and continue interviewing me continually until it's complete, then write the spec to the file
+
+
+──────────────────────────────────────── Ω ────────────────────────────────────────
+
+"I'm about to start this project. Interview me until you have 95% confidence about what I actually want, not what I think I want
