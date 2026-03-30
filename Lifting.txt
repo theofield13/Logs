@@ -11,10 +11,10 @@ machine kelso shrugs
 - w @ 50 57.5
 - 7 @ 80
 - 7 @ 80
-deadlifts
-- w @ 70 90
-- 5 @ 100
-- 5 @ 100
+Hyperextensions
+- w @ 20 30
+- 5 @ 50
+- 5 @ 50
 reverse nordics
 w @ lila lila
 - rött
