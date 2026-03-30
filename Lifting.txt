@@ -16,9 +16,8 @@ Hyperextensions
 - 5 @ 50
 - 5 @ 50
 reverse nordics
-w @ lila lila
-- rött
-- rött
+- rött @ 6
+- rött @ 6
 
 
 2026-03-25
