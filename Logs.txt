@@ -4,14 +4,18 @@ look at X threads if they give any tips for Cluade marketing agent
 ──────────────────────────────────────── Ω ────────────────────────────────────────
 
 2026-03-30
+https://www.youtube.com/watch?v=Lsug8VhC2y0 
+https://www.youtube.com/watch?v=758xPpiIYUM
+https://www.youtube.com/watch?v=0RpyFyX4xFg 
+
 Meet with Alexandra
 - semesterdagar
 - prismodell
 - datamodell
 add all files from RMBC2 2 into a folder in linux
+- done
 Finish prismodell 2.0
-
-
+- done. Still not 100% clarity of bottom up stress tests 
 Morgonpromenad
 Look up top lock
 start watching JD strangles & Turtle
