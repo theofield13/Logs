@@ -5,6 +5,9 @@ look at X threads if they give any tips for Cluade marketing agent
 
 2026-03-30
 Meet with Alexandra
+- semesterdagar
+- prismodell
+- datamodell
 add all files from RMBC2 2 into a folder in linux
 Finish prismodell 2.0
 
