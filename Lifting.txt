@@ -5,7 +5,7 @@ machine preacher curls hammer strength
 - 4 @ 35
 incline barbell bench height: 55
 - w : 40 50
-- 7 @ 60
+- 5 @ 60
 - 5 @ 60
 machine kelso shrugs
 - w @ 50 57.5
