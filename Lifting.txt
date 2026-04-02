@@ -5,8 +5,8 @@ dips
 6
 poliquin pushdowns 
 - w @ 12 19
-- 4 @ 19
-- 4 @ 19
+- 3 @ 19
+- 3 @ 19
 hack squat
 - w @ 20 30
 - 4 @ 40
