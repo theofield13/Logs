@@ -7,10 +7,10 @@ poliquin pushdowns
 - w @ 12 19
 - 3 @ 19
 - 3 @ 19
-hack squat
-- w @ 20 30
-- 4 @ 40
-- 4 @ 40
+stiletto back squat
+- w @ 20 40
+- 4 @ 60
+- 4 @ 60
 sup grip pullups
 - w @ 3 3
 5
