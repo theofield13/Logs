@@ -1,7 +1,7 @@
 2026-04-02
 dips 
-- w @ 3 3
-8
+- w @ 3 5
+10
 6
 poliquin pushdowns 
 - w @ 20 30
