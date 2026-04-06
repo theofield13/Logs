@@ -8,9 +8,9 @@ poliquin pushdowns pulldown bench
 - 6 @ 22.5
 - 6 @ 22.5
 Incline DB row (30-45 c)
-- w @ 15 20
-- 7 @ 22.5
-- 7 @ 22.5
+- w @ 17.5 20
+- 4 @ 25
+- 4 @ 25
 seated Hamstring curls
 - w: 65 72.5
 - 6 @ 87.5
