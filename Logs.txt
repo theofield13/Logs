@@ -2,6 +2,8 @@
 Call dance company 
 start research flights to Thailand
 
+Gather all X posts for Claude + Obsidian project
+- saved in Business.txt
 Meet with Moi
 - work on solution designer
 - how do we standardize input requirements?
