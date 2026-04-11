@@ -1,3 +1,7 @@
+# John Danaher - The fastest way: to become an effective guard passer
+
+https://bjjfanatics.com/products/the-fastest-way-to-become-an-effective-guard-passer-no-gi-by-john-danaher 
+
 
 
 # John Danaher - Strangles & Turtle Breakdowns
