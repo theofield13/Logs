@@ -1,5 +1,5 @@
 2026-04-11
-machine preacher curls hammer strength
+machine preacher curls 
 - w @ 20 30
 - 4 @ 35
 - 4 @ 35
@@ -8,9 +8,9 @@ poliquin pushdowns pulldown bench
 - 7 @ 22.5
 - 7 @ 22.5
 stiletto front squat
-- w @ 20 40
-- 4 @ 60
-- 4 @ 60
+- w @ 50 70
+- 3 @ 80
+- 3 @ 80
 barbell rdl
 - w @ 70 100
 - 3 @ 125
