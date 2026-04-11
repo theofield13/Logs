@@ -78,7 +78,7 @@ TO-DO
 https://bjjfanatics.com/products/strangles-turtle-breakdowns-bjj-fundamentals-go-further-faster-by-john-danaher?srsltid=AfmBOoo969fqnrCqwwYWIGWs9jsiwzsh-L9LSFG38lUPIpew9op1j-qF
 
 
-# John Danaher - CLosed guard
+# John Danaher - Closed guard
 
 
 https://bjjfanatics.com/products/closed-guard-bjj-fundamentals-go-further-faster-by-john-danaher?srsltid=AfmBOood_9NWDyfa4BL5telT2P4mpPWN-3mv87HlHxudzNd9cgHkgCx3
@@ -106,9 +106,9 @@ https://bjjfanatics.com/products/pinning-and-pressure-engineering-by-adam-wardzi
 
 
 
-###################################################################################################
-Nicholas Meregali  - Mount
-###################################################################################################
+
+# Nicholas Meregali  - Mount
+
 
 First submission?
 - He puts submisisons in three categories i) no underhooks ii) one underhook iii) both underhooks
@@ -118,9 +118,9 @@ First submission?
 
 
 
-###################################################################################################
-Systematically Attacking the Guard 3.0: Inside Camping by Gordon Ryan
-###################################################################################################
+
+# Systematically Attacking the Guard 3.0: Inside Camping by Gordon Ryan
+
 
 https://bjjfanatics.com/collections/instructional-videos/products/systematically-attacking-the-scrimmage-upper-body-takedowns-by-gordon-ryan?variant=41657882706018
 
