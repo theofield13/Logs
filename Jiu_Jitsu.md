@@ -2,6 +2,14 @@
 
 https://bjjfanatics.com/products/passing-the-guard-bjj-fundamentals-go-further-faster-by-john-danaher
 
+### The 5 Steps Of Guard Passing
+1.
+2.
+3.
+4.
+5.
+
+
 # The Fastest Way: To Increase Your Submission Percentage (No Gi) by John Danaher
 
 https://bjjfanatics.com/collections/instructional-videos/products/the-fastest-way-to-increase-your-submission-percentage-no-gi-by-john-danaher?variant=40510231511138
