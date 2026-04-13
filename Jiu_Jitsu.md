@@ -3,7 +3,8 @@
 https://bjjfanatics.com/products/passing-the-guard-bjj-fundamentals-go-further-faster-by-john-danaher
 
 ### The 5 Steps Of Guard Passing
-1.
+This is a step of sequences that you can follow
+1. Break connections - you cannot pass the guard if the opponent have strong connections to you. 
 2.
 3.
 4.
