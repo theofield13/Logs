@@ -3,8 +3,14 @@ poliquin pushdowns pulldown bench
 - w @ 12 19
 - 7 @ 22.5
 - 7 @ 22.5
-incline bench press
-incline row
+incline barbell bench height: 55
+- w : 65 97.5
+- 5 @ 102.5
+- 5 @ 102.5
+machine kelso shrugs
+- w @ 50 57.5
+- 5 @ 100
+- 5 @ 100
 reverse nordics
 - rött @ 6
 - rött @ 6
