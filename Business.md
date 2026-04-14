@@ -3,7 +3,7 @@
 
 ## TO-DO
 
-- [ ] 1) Gather all X posts
+- [x ] 1) Gather all X posts
 - [ ] 2) Summarize each post
 - [ ] 3) Decide which ide/project is the most interesting for a service-based business
 
