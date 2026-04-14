@@ -11,6 +11,10 @@ This is a step of sequences that you can follow
 5.
 
 ### Toreando Passing
+- No-Gi grips argubly the best even in Gi
+- toreando 101: create a situation where you connect to his legs but deny his legs to make connections to you
+- reason why ankles instead of pants => it's more difficult for the opponent to establish connections 
+- **goal 1: make his feet points away from you**
 
 
 # The Fastest Way: To Increase Your Submission Percentage (No Gi) by John Danaher
