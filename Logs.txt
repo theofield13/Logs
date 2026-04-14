@@ -3,6 +3,8 @@ Meet with Moi
 - book a meeting with Moi tomorrow at 10
 - would need cleaning of the data after data connector
 - data quality check also
+https://www.markdownguide.org/basic-syntax/ 
+
 
 Talk with vet
 Research flight to Thailand
