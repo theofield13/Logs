@@ -1,22 +1,27 @@
 
-CLAUDE + OBSIDIAN PROJECT
+# CLAUDE + OBSIDIAN PROJECT
 
-TO-DO
+## TO-DO
 
-1. Gather all X posts
+- [ ] 1) Gather all X posts
 - done
-2. Summarize each post
-3. Decide which ide/project is the most interesting for a service-based business
+- [ ] 2) Summarize each post
+- [ ] 3) Decide which ide/project is the most interesting for a service-based business
 
 n. add RMBC II to the brain
 
-───────
+## Work space
 
 1. 
 https://x.com/polydao/status/2042257320369918419?s=20
+
 https://x.com/EXM7777/status/2042227447685595543?s=20 
+
+
 https://x.com/cyrilXBT/status/2041729194833387694?s=20
+
 https://x.com/gregisenberg/status/2026036464287412412 
+
 https://x.com/NickSpisak_/status/2041012360668750229
 https://x.com/heygurisingh/status/2040715614785052929
 https://x.com/sukh_saroy/status/2040292457821475190
