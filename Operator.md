@@ -10,7 +10,7 @@
 # BUSINESS
 
 [ ] start a service-based business -- more info in Business.txt
-- [ ] Buy groceries
+- [x] Buy groceries
 
 ────────── Ω ──────────
 
