@@ -17,16 +17,26 @@ https://x.com/polydao/status/2042257320369918419?s=20
 https://x.com/EXM7777/status/2042227447685595543?s=20 
 "i turned my brain into a searchable wiki with claude code. here's how."
 
-basically implements LLM Wiki
+basically implements LLM Wiki Andrej Karpathy
 
 https://x.com/gregisenberg/status/2026036464287412412 
 
 a video guide of installing cluade + obsidian from GREG ISENBERG
 
 https://x.com/NickSpisak_/status/2041012360668750229
+How to Build Your Second Brain
+
+builds on top of Andrej Karpathy LLM WIKI
+
 https://x.com/heygurisingh/status/2040715614785052929
+
+
 https://x.com/sukh_saroy/status/2040292457821475190
+
+
 https://x.com/kepano/status/2039831289533227446
+
+
 https://x.com/kepano/status/2039819092035780633
 https://x.com/sourfraser/status/2039756047162671220
 https://x.com/heyrobinai/status/2035714627665891412
