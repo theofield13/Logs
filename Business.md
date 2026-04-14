@@ -17,10 +17,12 @@ THE 1-HOUR OBSIDIAN LECTURE THAT CHANGES HOW YOU THINK ABOUT YOUR VAULT
 
 Intro to Obsidian bases
 
+builds on top of Andrej Karpathy LLM Wiki 
+
 - https://x.com/EXM7777/status/2042227447685595543?s=20 
 "i turned my brain into a searchable wiki with claude code. here's how."
 
-basically implements LLM Wiki Andrej Karpathy
+basically implements Andrej Karpathy LLM Wiki 
 
 - https://x.com/gregisenberg/status/2026036464287412412 
 
