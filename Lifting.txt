@@ -11,13 +11,7 @@ machine kelso shrugs
 - w @ 80 90
 - 7 @ 110
 - 7 @ 110
-reverse nordics
-- rött @ 6
-- rött @ 6
-barbell rdl
-- w @ 70 100
-- 3 @ 125
-- 3 @ 125
+
 
 2026-04-11
 machine preacher curls 
