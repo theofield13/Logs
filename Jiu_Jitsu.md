@@ -16,6 +16,8 @@ This is a step of sequences that you can follow
 - reason why ankles instead of pants => it's more difficult for the opponent to establish connections. Gi-pants are a stronger and more versitile grip
 - **goal 1: make his feet points away from you**
 
+- working with pants: 1) put your hands on his shin first 2) grab pants. Don't grab the first thing you do
+
 
 # The Fastest Way: To Increase Your Submission Percentage (No Gi) by John Danaher
 
