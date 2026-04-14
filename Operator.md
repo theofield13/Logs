@@ -10,8 +10,6 @@
 # BUSINESS
 
 - [ ] start a service-based business -- more info in Business.txt
-- [ ] Buy groceries
-
 
 
 # LIFE
@@ -21,7 +19,8 @@
 
 # FITNESS
 
-
+- [ ] Get down to 86 kg until wedding
+- [ ] RDL 180 kg
 
 # FUTURE PROJECTS
 
