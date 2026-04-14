@@ -13,6 +13,9 @@ n. add RMBC II to the brain
 
 1. 
 https://x.com/polydao/status/2042257320369918419?s=20
+THE 1-HOUR OBSIDIAN LECTURE THAT CHANGES HOW YOU THINK ABOUT YOUR VAULT
+
+Intro to Obsidian bases
 
 https://x.com/EXM7777/status/2042227447685595543?s=20 
 "i turned my brain into a searchable wiki with claude code. here's how."
