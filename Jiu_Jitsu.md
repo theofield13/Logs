@@ -18,6 +18,12 @@ This is a step of sequences that you can follow
 
 - working with pants: 1) put your hands on his shin first 2) grab pants. Don't grab the first thing you do
 
+**Workflow**
+1. approach, put your hands flat on his legs
+2. grab cloth
+3. establish angle so his feet don't point towards you
+4. push the far knee into to the mat
+
 
 # The Fastest Way: To Increase Your Submission Percentage (No Gi) by John Danaher
 
