@@ -15,11 +15,13 @@ n. add RMBC II to the brain
 https://x.com/polydao/status/2042257320369918419?s=20
 
 https://x.com/EXM7777/status/2042227447685595543?s=20 
+"i turned my brain into a searchable wiki with claude code. here's how."
 
-
-https://x.com/cyrilXBT/status/2041729194833387694?s=20
+basically implements LLM Wiki
 
 https://x.com/gregisenberg/status/2026036464287412412 
+
+a video guide of installing cluade + obsidian from GREG ISENBERG
 
 https://x.com/NickSpisak_/status/2041012360668750229
 https://x.com/heygurisingh/status/2040715614785052929
