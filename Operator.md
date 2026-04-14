@@ -17,9 +17,7 @@
 
 - [x] 1) Gather all X posts
 - [ ] 2) Summarize each post
-- [ ] 3) Decide which ide/project is the most interesting for a service-based business
-
-n. add RMBC II to the brain
+- [ ] 3) Implement Andrej Karpathy LLM Wiki idea for RMBC II course
 
 ### Work space
 
