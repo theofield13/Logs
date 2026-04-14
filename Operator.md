@@ -5,14 +5,14 @@
 - low fat first part of the day
 - first 10 minutes of the day are sacred. No phone.
 
-────────── Ω ──────────
+
 
 # BUSINESS
 
 [ ] start a service-based business -- more info in Business.txt
 - [ ] Buy groceries
 
-────────── Ω ──────────
+
 
 # LIFE
 
