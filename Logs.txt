@@ -1,6 +1,7 @@
 2026-04-15
 Meet with Moi to discusss data model
 - We need to review what data we have vs what we need
+
 30 min deep work session studying AI
 Research flight to Thailand
 
