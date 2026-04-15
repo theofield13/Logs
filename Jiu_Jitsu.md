@@ -29,6 +29,10 @@ This is a step of sequences that you can follow
 
 https://bjjfanatics.com/collections/instructional-videos/products/the-fastest-way-to-increase-your-submission-percentage-no-gi-by-john-danaher?variant=40510231511138
 
+## All major positions covered in this video
+
+bottom half-guard
+
 # John Danaher - The fastest way: to become an effective guard passer
 
 https://bjjfanatics.com/products/the-fastest-way-to-become-an-effective-guard-passer-no-gi-by-john-danaher 
