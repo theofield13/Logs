@@ -1,6 +1,9 @@
 # AI Automation Builder Course: 6-Month Roadmap (Non-Technical Path)
 **1 Hour/Day • Monday–Friday Only • Total: ~130 hours**
 
+**Article is available here:** https://x.com/DeRonin_/status/2043722737080819983 
+
+
 **Start date assumption**: Next Monday (or Day 1 = your first available Monday).  
 **Path**: Non-technical (n8n focus) — exactly as recommended in the article.  
 **Rule**: 1 hour max per day. Do the task, then stop. Build the habit.  

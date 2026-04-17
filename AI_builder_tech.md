@@ -1,6 +1,8 @@
 # AI Automation Builder Course: 6-Month Roadmap (Technical/Developer Path)
 **1 Hour/Day • Monday–Friday Only • Total: ~130 hours (core) + ~60 hours dev add-ons**
 
+**Article is available here:** https://x.com/DeRonin_/status/2043722737080819983 
+
 **Start date assumption**: Next Monday (or Day 1 = your first available Monday).  
 **Path**: **Technical/Developer** — You already code (or are ready to). You follow the **exact same core n8n roadmap** as the non-technical path (because n8n is still the fastest way to ship client work and get paid), **BUT** you ALSO complete the “Developer Path” add-ons at the end of each month. This unlocks bigger contracts, custom backends, LangGraph agents, and full-stack AI automations.  
 **Rule**: 1 hour max per day. Split your hour between core + dev add-on if needed (e.g., 40 min core, 20 min dev). Build the habit.  
