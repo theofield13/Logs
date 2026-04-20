@@ -21,7 +21,7 @@
 **Goal (dev add-on)**: Learn just enough Python to read docs, write small scripts, and glue things when n8n hits a wall.
 
 ### Week 1
-- [x ] **Monday**: Read n8n Official Docs — Quickstart + Core Concepts (Triggers, Actions, Data flow). Take notes on how data moves between nodes. (docs.n8n.io)
+- [x] **Monday**: Read n8n Official Docs — Quickstart + Core Concepts (Triggers, Actions, Data flow). Take notes on how data moves between nodes. (docs.n8n.io)
 - [ ] **Tuesday**: Complete n8n Academy first 2 beginner modules. Create your first empty workflow and add a Schedule Trigger + Set node.
 - [ ] **Wednesday**: Watch Productive Dude YouTube (first 2 beginner videos). Build a simple “Daily price checker → Google Sheet” workflow.
 - [ ] **Thursday**: Finish n8n Academy core concepts. Practice error handling and fallback paths in a test workflow.
