@@ -1,7 +1,7 @@
 2026-04-20
 incline barbell bench
 - w : 40 50
-- 5 @ 60
+- 6 @ 60
 - 5 @ 60
 poliquin pushdowns pulldown bench
 - w @ 12 19
