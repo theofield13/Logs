@@ -4,9 +4,9 @@ incline barbell bench
 - 6 @ 60
 - 5 @ 60
 poliquin pushdowns pulldown bench
-- w @ 12 19
-- 7 @ 22.5
-- 7 @ 22.5
+- w @ 15.5 22.5
+- 5 @ 26
+- 5 @ 26
 sup grip pullups
 - w @ 3 3
 6
