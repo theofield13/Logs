@@ -1,3 +1,7 @@
+# Wrestle Ups by Giancarlo Bodoni
+
+https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodoni 
+
 # Passing the Guard: BJJ Fundamentals - Go Further Faster by John Danaher
 
 https://bjjfanatics.com/products/passing-the-guard-bjj-fundamentals-go-further-faster-by-john-danaher
