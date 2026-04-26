@@ -4,7 +4,7 @@ https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated
 
 ## Volume 1
 
-### Double kouchi when opponent pulls back 1:30:34
+Double kouchi when opponent pulls back 1:30:34
 
 # Wrestle Ups by Giancarlo Bodoni
 
