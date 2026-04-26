@@ -2,6 +2,10 @@
 
 https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated-position-by-gordon-ryan 
 
+## Volume 1
+
+### Double kouchi when opponent pulls back 1:30:34
+
 # Wrestle Ups by Giancarlo Bodoni
 
 https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodoni 
