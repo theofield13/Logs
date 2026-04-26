@@ -1,3 +1,7 @@
+# Systematically Attacking From Open Guard Seated Position by Gordon Ryan
+
+https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated-position-by-gordon-ryan 
+
 # Wrestle Ups by Giancarlo Bodoni
 
 https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodoni 
