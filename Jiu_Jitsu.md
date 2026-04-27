@@ -14,7 +14,8 @@ https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated
 
 **Distance management 21:47**
 
-you can play from a squared stance if your opponent has a square stance => if he switches to a staggered stance, you do to
+- you can play from a squared stance if your opponent has a square stance => if he switches to a staggered stance, you do to
+- you also mirror her "side" => if her right leg is forward, your right leg is forward. This forces the opponent to only pass at one side. If not, you can easily expose her center line 
 
 **The importance of concave shoulders**
 
