@@ -1,9 +1,10 @@
 # HABITS
 
 - 1 hour of deep work on my own business every day
-- 10 steps per day
+- 10 000 steps per day
 - low fat first part of the day
 - first 10 minutes of the day are sacred. No phone.
+- Stare at a wall for 20 minutes BEFORE WORK https://youtu.be/EX_5KEdQkWA?si=3Vwc2NbnA-f2hTU0
 
 
 
@@ -11,13 +12,6 @@
 
 - [ ] start a service-based business -- more info in Business.txt
 
-## CLAUDE + OBSIDIAN PROJECT
-
-### TO-DO
-
-- [x] 1) Gather all X posts
-- [ ] 2) Summarize each post
-- [ ] 3) Implement Andrej Karpathy LLM Wiki idea for RMBC II course
 
 ### Work space
 
