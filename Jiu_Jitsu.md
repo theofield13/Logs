@@ -4,42 +4,42 @@ https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated
 
 ## Volume 1
 
-**Intro 00:00**
+### Intro 00:00
 
-**Intro to open guard**
+### Intro to open guard
 
-**4 main body positions**
+### 4 main body positions
 
-**Goal setting**
+### Goal setting
 
-**Distance management 21:47**
+### Distance management 21:47
 
 - you can play from a squared stance if your opponent has a square stance => if he switches to a staggered stance, you do to
 - you also mirror her "side" => if her right leg is forward, your right leg is forward. This forces the opponent to only pass at one side. If not, you can easily expose her center line 
 
-**The importance of concave shoulders**
+### The importance of concave shoulders
 
-**Drill to help reinforce the idea of concave shoulders**
+### Drill to help reinforce the idea of concave shoulders
 
-**Basic ashi garami entrance versus square stance**
+### Basic ashi garami entrance versus square stance
 
-**Single kouchi into ashi versus square stance**
+### Single kouchi into ashi versus square stance
 
-**Double kouchi no grips**
+### Double kouchi no grips
 
-**Double kouchi using collar tie**
+### Double kouchi using collar tie
 
-**Understanding the importance of 2 on 1 gripping and arm dragging**
+### Understanding the importance of 2 on 1 gripping and arm dragging
 
-**Basic ashi garami entrances via 2 on 1**
+### Basic ashi garami entrances via 2 on 1
 
-**Double kouchi when opponent pulls back 1:30:34**
+### Double kouchi when opponent pulls back 1:30:34
 
-**Failed double kouchi shin to shin entrance**
+### Failed double kouchi shin to shin entrance
 
-**Shin to shin kouchi/ashi entrance**
+### Shin to shin kouchi/ashi entrance
 
-**Mechanics of entering ashi from shin to shin**
+### Mechanics of entering ashi from shin to shin
 
 
 
