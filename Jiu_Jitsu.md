@@ -16,8 +16,11 @@ https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated
 
 - you can play from a squared stance if your opponent has a square stance => if he switches to a staggered stance, you do to
 - you also mirror her "side" => if her right leg is forward, your right leg is forward. This forces the opponent to only pass at one side. If not, you can easily expose her center line 
+- 
 
-### The importance of concave shoulders
+### The importance of concave shoulders 30:45
+
+- It's much easier to sweep in a butterfly with a "rocking chair" spine
 
 ### Drill to help reinforce the idea of concave shoulders
 
@@ -57,13 +60,17 @@ https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodo
 
 https://bjjfanatics.com/products/passing-the-guard-bjj-fundamentals-go-further-faster-by-john-danaher
 
-### The 5 Steps Of Guard Passing
+## Volume 2
+
+### The 5 Steps Of Guard Passing 52:50 
 This is a step of sequences that you can follow
 1. Break connections - you cannot pass the guard if the opponent have strong connections to you. 
 2.
 3.
 4.
 5.
+
+## Volume 4 
 
 ### Toreando Passing
 - No-Gi grips argubly the best even in Gi
