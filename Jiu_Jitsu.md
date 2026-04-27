@@ -10,6 +10,12 @@ Double kouchi when opponent pulls back 1:30:34
 
 https://bjjfanatics.com/products/forging-the-guard-wrestle-ups-by-giancarlo-bodoni 
 
+**Guards from Gian teaches wrestle ups from:**
+- Butterfly
+- Shin-to-Shin
+- RDLR
+- Half guard
+
 # Passing the Guard: BJJ Fundamentals - Go Further Faster by John Danaher
 
 https://bjjfanatics.com/products/passing-the-guard-bjj-fundamentals-go-further-faster-by-john-danaher
