@@ -64,8 +64,8 @@ https://bjjfanatics.com/products/passing-the-guard-bjj-fundamentals-go-further-f
 
 ### The 5 Steps Of Guard Passing 52:50 
 This is a step of sequences that you can follow
-1. Break connections - you cannot pass the guard if the opponent have strong connections to you. 
-2.
+1. **Break connections - you cannot pass the guard if the opponent have strong connections to you. (52:50)**. Note only grips that denies me to form an angle AND / OR allows him to off-balance me are dangerous.
+2. **Make your opponents feet point away from you** (1:00:18)
 3.
 4.
 5.
