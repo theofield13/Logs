@@ -13,6 +13,7 @@ https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated
 **Goal setting**
 
 **Distance management 21:47**
+
 you can play from a squared stance if your opponent has a square stance => if he switches to a staggered stance, you do to
 
 **The importance of concave shoulders**
