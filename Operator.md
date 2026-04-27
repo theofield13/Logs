@@ -4,7 +4,15 @@
 - 10 000 steps per day
 - low fat first part of the day
 - first 10 minutes of the day are sacred. No phone.
-- Stare at a wall for 20 minutes BEFORE WORK https://youtu.be/EX_5KEdQkWA?si=3Vwc2NbnA-f2hTU0
+- Stare at a wall for 20 minutes BEFORE WORK https://youtu.be/EX_5KEdQkWA?si=3Vwc2NbnA-f2hTU0iu8nh
+
+The Protocol
+- 20 minutes @ a wall
+- do the 1 hour deep work session
+- walk for 30 minutes
+- work for 1 hour
+
+DONT TAKE FAKE BREAKS
 
 
 
