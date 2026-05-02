@@ -12,7 +12,7 @@ poliquin pushdowns
 - 4 @ 26
 - 3 @ 26
 Deficit Bulgarians
-- w @ BW BW
+- w @ BW 6
 - 5 @ 8 kg
 - 5 @ 8 kg
 barbell rdl
