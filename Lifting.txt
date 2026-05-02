@@ -23,6 +23,12 @@ single arm cable Y raise:
 - w @ 6.25
 3 @ 8.25
 
+farbood HIT:
+upper: 300?
+4 min rest
+lower: 500
+
+
 2026-04-28
 cuffed hammer curls
 - w @ 6.25 8.75
