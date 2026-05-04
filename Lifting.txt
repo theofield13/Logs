@@ -1,17 +1,17 @@
 2026-05-04
 incline barbell bench
 - w : 40 50
-- 6 @ 60
-- 5 @ 60
+- 4 @ 60
+- 4 @ 60
 poliquin pushdowns pulldown bench
 - w @ 15.5 22.5
 - 4 @ 26
 - 3 @ 26
 - MAX @ 22.5
-machine kelso shrugs
-- w @ 80 90
-- 7 @ 110
-- 7 @ 110
+Incline DB row (30-45 c)
+- w @ 17.5 20
+- 5 @ 25
+- 5 @ 25
 seated Hamstring curls
 - w: 65 80
 - 4 @ 95
