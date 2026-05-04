@@ -7,6 +7,7 @@ poliquin pushdowns pulldown bench
 - w @ 15.5 22.5
 - 4 @ 26
 - 3 @ 26
+- MAX @ 22.5
 machine kelso shrugs
 - w @ 80 90
 - 7 @ 110
