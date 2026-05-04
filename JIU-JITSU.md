@@ -65,9 +65,9 @@ https://bjjfanatics.com/products/passing-the-guard-bjj-fundamentals-go-further-f
 ### The 5 Steps Of Guard Passing 52:50 
 This is a step of sequences that you can follow
 1. **Break connections - you cannot pass the guard if the opponent have strong connections to you. (52:50)**. Note only grips that denies me to form an angle AND / OR allows him to off-balance me are dangerous.
-2. **Make your opponents feet point away from you** (1:00:18)
-3.
-4.
+2. **Make your opponents feet point away from you** (1:00:18). All of his attacks begins with his feet pointing towards us. You can send his feet in three directions, up, down or left/right => now he's in a defensive cycle. In the case of a seated guard, you want to stop his toes from pointing towards you
+3. **As much as possible, get positions within neutral positions** (1:06:29). For instance, you completed steps 1 & 2 and some inside position where the opponent get's shut down -- he cannot attack. Spend as much time here as possible.
+4.**Make he's knees point away from you** (1:10:55)
 5.
 
 ## Volume 4 
