@@ -1,6 +1,6 @@
 # View for income
 
-## Module 1
+## Module 1 - Getting started on Youtube
 
 ### most common mistake beginners make
 
@@ -30,4 +30,36 @@ you need enough data:
 - did any of those 10 (everegreen) get > 200 views => you are NOT shadowbanned. For trending niche it's 500 views
 - 4-5 videos per week is the minimum 
 - if you can post 30 days per month, you have 30 tries to get one banger. 1M views => 7-10k $ 
-- we are NOT content creators 
+- we are NOT content creators. Focus on the main levers -- the packaging which is the video title and thumbnail.
+
+There is a lot of dogshit videos on YT. You only have to make great title and thumbnial and get quality of video barely above dogshit-level.
+
+You have 30 tries per month.
+
+### Channel settings for you channel
+
+--
+
+### How to navigate through Youtube studio
+
+--
+
+### How to setup Google ADsense
+
+--
+
+## Module 2 - Content planning strategy
+
+### How to easily double scripts 
+
+--
+
+### How to choose my video tags
+
+--
+
+### how to come up with video titles 
+
+--
+
+## Module 3 - Writing and scripting
