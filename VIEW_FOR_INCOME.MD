@@ -1,5 +1,10 @@
 # View for income
 
+**Niche ideas**
+- [] celebrity news
+- [] streamer news
+- [] attention span
+
 ## Module 1 - Getting started on Youtube
 
 ### most common mistake beginners make
@@ -60,6 +65,7 @@ You have 30 tries per month.
 
 ### how to come up with video titles 
 
---
+- always capitalize the words in the title
+- if you're doing a "top 10 xx" => "10 times xx .." 
 
 ## Module 3 - Writing and scripting
