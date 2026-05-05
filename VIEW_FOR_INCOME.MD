@@ -78,3 +78,9 @@ times celebs clapped back at ellen, entertainment, celeb news, top 10, ellen
 - always start video ideas with title and thumbnail
 
 ## Module 3 - Writing and scripting
+
+### Chat GPT prompt for evergreen original scripts
+
+### How To Avoid Copyright IF YOU are Editing
+
+### How to Avoid Copyright with Editing
