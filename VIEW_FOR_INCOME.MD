@@ -65,7 +65,11 @@ Go to the script of said video and
 
 ### How to choose my video tags
 
---
+VidiQ is recommended - just use the ones coming up on the side of the video
+
+They should look like these:
+
+times celebs clapped back at ellen, entertainment, celeb news, top 10, ellen
 
 ### how to come up with video titles 
 
