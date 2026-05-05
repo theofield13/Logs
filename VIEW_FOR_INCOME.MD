@@ -57,7 +57,11 @@ You have 30 tries per month.
 
 ### How to easily double scripts 
 
---
+If a topic is super-hot you might want to create several videos on said topics. You can re-use a video by using these two hacks:
+
+Go to the script of said video and 
+1. re-arrange the different parts
+2. re-write the introduction 
 
 ### How to choose my video tags
 
@@ -66,6 +70,7 @@ You have 30 tries per month.
 ### how to come up with video titles 
 
 - always capitalize the words in the title
-- if you're doing a "top 10 xx" => "10 times xx .." 
+- if you're doing a "top 10 xx" => "10 times xx .." and you can also freshen it up with 2026, more, new etc..
+- always start video ideas with title and thumbnail
 
 ## Module 3 - Writing and scripting
