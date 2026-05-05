@@ -81,6 +81,26 @@ times celebs clapped back at ellen, entertainment, celeb news, top 10, ellen
 
 ### Chat GPT prompt for evergreen original scripts
 
+There is a google document included in the course with the same name asa chapter title
+
+- [] Copy the content into a new document
+- [] At the bottom - add title of the video
+- [] Send to the LLM
+- [] start with 1 - copy the answer into a new document
+- [] continue with other numbers
+
+you want to aim at 3000 words then send to elevenlabs for editing
+
 ### How To Avoid Copyright IF YOU are Editing
 
-### How to Avoid Copyright with Editing
+- find 3 videos from your competitors 
+- download those 3 videos 
+
+use a editing program that allows you to mix the scenes from those 3 videos and not allow any scene to go on longer than 7 seconds
+
+## Module 4 - Assembling the team
+
+--
+
+## Module 5 - Video Creation And Editing
+
