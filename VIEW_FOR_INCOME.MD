@@ -104,3 +104,40 @@ use a editing program that allows you to mix the scenes from those 3 videos and 
 
 ## Module 5 - Video Creation And Editing
 
+### Eleven Labs Tutorial
+
+Re-watch later
+
+### How To Create Thumbnails with AI
+
+Involves Photoshop which I don't think are really needed in 2026 (?)
+
+### How To Cut An Audio in 10 Seconds Premiere Pro
+
+### Mastering Thumbnail Ideas
+
+The bottom line is you have to nail the details that your successful competitor are implementing
+
+### Premiere Pro Editing Tutorial
+
+To be watched later
+
+### Thumbnail Tutorial 1
+
+-
+
+### Thumbnail Tutorial 2
+
+-
+
+### Thumbnail Tutorial 3
+
+-
+
+## Module 6 - Publishing and Optimizing
+
+## Module 7 - Advanced Optimization
+
+## Module 8 - Bonus Extras
+
+## Module 9 - Create videos for free
