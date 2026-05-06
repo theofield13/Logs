@@ -83,11 +83,11 @@ times celebs clapped back at ellen, entertainment, celeb news, top 10, ellen
 
 There is a google document included in the course with the same name asa chapter title
 
-- [] Copy the content into a new document
-- [] At the bottom - add title of the video
-- [] Send to the LLM
-- [] start with 1 - copy the answer into a new document
-- [] continue with other numbers
+- [ ] Copy the content into a new document
+- [ ] At the bottom - add title of the video
+- [ ] Send to the LLM
+- [ ] start with 1 - copy the answer into a new document
+- [ ] continue with other numbers
 
 you want to aim at 3000 words then send to elevenlabs for editing
 
