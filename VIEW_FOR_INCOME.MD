@@ -1,9 +1,9 @@
 # View for income
 
 **Niche ideas**
-- [] celebrity news
-- [] streamer news
-- [] attention span
+- [ ] celebrity news
+- [ ] streamer news
+- [ ] attention span
 
 ## Module 1 - Getting started on Youtube
 
