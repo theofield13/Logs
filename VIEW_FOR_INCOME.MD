@@ -136,8 +136,64 @@ To be watched later
 
 ## Module 6 - Publishing and Optimizing
 
+
+### How To Do Descriptions
+
+- Add the title of the video
+- first and last paragraph of the script
+- links to out-of-YT will be punished by the algorithm
+
+### How To Fix Low Views On Your Channel
+
+It's been 2 weeks and you have uploaded 7 videos without any of them hitting 5k views something is wrong
+
+YT studio --> Analytics
+
+- CTR should never be less than 10% => thumbnails are either i) "too original" or ii) not the same as your competitors 
+- AVD is shit => MAKE BETTER VIDEOS
+- source of viewship should alwasy be YT search and suggested videos
+
+
+### How To Upload Videos With Tags And Description
+
+-
+
+### Secrets to Increase AVD
+
+- introduction hook is the most important aspect to script writing
+
+
+
 ## Module 7 - Advanced Optimization
+
+### Deep Dive Analytics Oct 2024
+
+
+### The Brutal Truth about Subscribers
+
+
+### Update On Strategies YT Algorithm
+
+
+### UPDATED Video Idea Research
+
 
 ## Module 8 - Bonus Extras
 
+### BONUS 1-on-1 Mentorship CAll With Student
+
+
+### Channel Analytics 1
+
+
+### Channel Analytics 2
+
+
+### My Story
+
+
 ## Module 9 - Create videos for free
+
+### Canva Photopea Tutorial
+
+### Editing court room drama video or any niche
