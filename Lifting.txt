@@ -6,7 +6,6 @@ machine shoulder press
 - w @ 30 35
 - 5 @ 42
 - 5 @ 42
-pullover and press
 cuffed hammer curls
 - w @ 8.75 11.25
 - 4 @ 13.75
@@ -18,8 +17,8 @@ Deficit Bulgarians
 - 5 @ 8 kg
 barbell rdl
 - w @ 70 100
-- 3 @ 125
-- 3 @ 125
+- 3 @ 130
+- 3 @ 130
 
 farbood HIT:
 upper: 300?
