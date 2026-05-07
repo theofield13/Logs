@@ -6,6 +6,8 @@ machine shoulder press
 - w @ 27.5 35
 - 5 @ 38.75
 - 5 @ 38.75
+pullover and press
+- w @ 10 
 cuffed hammer curls
 - w @ 6.25 8.75
 - 7 @ 11.25
