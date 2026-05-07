@@ -171,12 +171,16 @@ YT studio --> Analytics
 
 ### The Brutal Truth about Subscribers
 
+For this business model, subs are irrelevant.
 
 ### Update On Strategies YT Algorithm
 
 
 ### UPDATED Video Idea Research
 
+1. Find your competitors on VidiIQ
+2. see what they post
+3. copy that
 
 ## Module 8 - Bonus Extras
 
