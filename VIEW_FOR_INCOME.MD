@@ -168,6 +168,11 @@ YT studio --> Analytics
 
 ### Deep Dive Analytics Oct 2024
 
+- you want to have at least 15% CTR
+- at least 6:30 min AVG view duration
+
+this is for celebrity news
+
 
 ### The Brutal Truth about Subscribers
 
@@ -175,6 +180,7 @@ For this business model, subs are irrelevant.
 
 ### Update On Strategies YT Algorithm
 
+-
 
 ### UPDATED Video Idea Research
 
@@ -186,6 +192,7 @@ For this business model, subs are irrelevant.
 
 ### BONUS 1-on-1 Mentorship CAll With Student
 
+-
 
 ### Channel Analytics 1
 
