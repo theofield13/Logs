@@ -1,8 +1,8 @@
 2026-05-11
-incline barbell bench
-- w : 40 50
-- 4 @ 60
-- 4 @ 60
+incline dumbbell bench
+- w : 15 20
+- 7 @ 22.5
+- 7 @ 22.5
 upper-back machine row
 - w : 50 60
 - 4 @ 70
