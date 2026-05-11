@@ -5,8 +5,8 @@ incline dumbbell bench
 - 7 @ 22.5
 upper-back machine row
 - w : 50 60
-- 6 @ 80
-- 6 @ 80
+- 7 @ 80
+- 7 @ 80
 trap 3 raise
 - w : 3 3
 - 4 @ 4
