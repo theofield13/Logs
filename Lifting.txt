@@ -13,9 +13,8 @@ trap 3 raise
 seated Hamstring curls
 - w: 72 87
 - 3 @ 102
-Leg extensions
-- W → 65 87.5
-- 4 → 102
+reverse nordics
+2 sets
 
 Airbike sprints
 6 rounds
