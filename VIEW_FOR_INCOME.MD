@@ -1,4 +1,4 @@
-# View for income
+# The Entire Course
 
 **Niche ideas**
 - [ ] celebrity news
@@ -208,3 +208,19 @@ For this business model, subs are irrelevant.
 ### Canva Photopea Tutorial
 
 ### Editing court room drama video or any niche
+
+# NEW Channel Case Study
+
+## This Video Just Gives Context To The Rest
+
+## Week 1 - Setting Up New Channel
+
+## Week 2 - Pre Launch Of Channel
+
+## Week 3 - Result Of First 9 Days After Launch
+
+## Week 3 - YouTube Demonetized Us - The Solution
+
+## Week 4 - New Channel Is Shadow banned SOLUTION
+
+## Week 5 - It Was All Worth It..
