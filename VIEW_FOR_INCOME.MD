@@ -213,7 +213,11 @@ For this business model, subs are irrelevant.
 
 ## This Video Just Gives Context To The Rest
 
+-
+
 ## Week 1 - Setting Up New Channel
+
+09:55
 
 ## Week 2 - Pre Launch Of Channel
 
