@@ -8,9 +8,9 @@ btn smith
 - 7 @ 40
 - 7 @ 40
 Deficit Bulgarians
-- w @ BW 8
-- 5 @ 16 
-- 5 @ 24
+- w @ 8 20
+- 7 @ 24
+- 7 @ 24
 barbell rdl
 - w @ 70 100
 - 3 @ 130
