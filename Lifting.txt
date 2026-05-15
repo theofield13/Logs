@@ -3,10 +3,10 @@ sup grip pullups
 - w @ 3 3
 6
 5
-machine shoulder press 
-- w @ 30 35
-- 5 @ 42
-- 5 @ 42
+btn smith 
+- w @ 0 5
+- 7 @ 40
+- 7 @ 40
 Deficit Bulgarians
 - w @ BW 8
 - 5 @ 16 
