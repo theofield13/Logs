@@ -7,9 +7,10 @@ upper-back machine row
 - w : 50 60
 - 7 @ 80
 - 7 @ 80
-trap 3 raise
-- w : 3 3
-- 4 @ 4
+machine preacher curls 
+- w @ 20 30
+- 5 @ 35
+- 5 @ 35
 seated Hamstring curls
 - w: 72 87
 - 3 @ 102
