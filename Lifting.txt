@@ -3,10 +3,10 @@ pullover and press
 - w : 15 20
 - 7 @ 22.5
 - 7 @ 22.5
-upper-back machine row
-- w : 50 60
-- 7 @ 80
-- 7 @ 80
+full row cable
+- w : 33 40
+- 5 @ 47
+- 5 @ 47
 machine preacher curls 
 - w @ 20 30
 - 5 @ 35
