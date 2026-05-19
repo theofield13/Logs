@@ -205,3 +205,9 @@ Prompt 3: For each day of the itinerary, suggest a few restaurants located near 
 
 
 
+## Notes
+
+2026-05-19
+- a simple framework for writing good prompts: persona, task, format, context which I think is simple but very useful
+- Nothing super-surprising yet
+- It's still unclear to me when I shuld apply all the techniques I have learned. Hopefully it will be clear after next session
