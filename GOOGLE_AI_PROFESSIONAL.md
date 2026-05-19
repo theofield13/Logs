@@ -146,8 +146,59 @@ Think about what next steps you’d like to take based on Gemini’s output. Als
 
 When you are satisfied with your outputs from this lab, you can close this page and return to the main screen of this course.
 
+**Prompting tip**
+
+At the end of the prompt after all context and so forth, add:
+
+"please aks me any follow-up or clarifying questions before you continue doing work"
 
 ### Module 5 - Level up your prompts
+
+You've already learned the prompting framework (persona, task, context, and format) for writing a good prompt.
+
+Next up are two advanced techniques that can help you with more complex tasks:
+
+#### Powerful prompt phrases: think of this as leveling up your communication with every prompt you write
+
+Certain phrases can be more effective
+
+Give AI a process to follow:
+- think step-by-step
+- first x, second y, ...
+
+Define the audience and tone:
+- write this for an audience of x
+- the tone shuld be x
+
+set hard constraints
+- write a one paragraph summary
+- focus exclusively on X and don't mention topic Y
+
+Request a critique
+- Critique this text from the perspective of a X
+- play the devil's advocate. What is the strongest counterargument to this?
+
+Generate alternatives
+- give me 3 different versions of this
+- what's an alternative approach to solving this problem?
+
+Deepen or expand on the initial output:
+- Elaborate on point 2
+- provide more detail and specific examples for the section about X
+
+#### Prompt chaining: break down a big task that is to big for a single prompt
+
+It works like a factory assembly line: The output from one prompt is used as the inout for the next.
+
+Example: you are planning a vaction in Paris.
+
+Prompt 1: I'm going to paris for 3 days. I like art, historical sites, and parks. Suggest a few well-know places I could visit on my trip.
+
+Prompt 2: Using those locations, create a logical day-by-day itinerary that minimizes travel time
+
+Prompt 3: For each day of the itinerary, suggest a few restaurants located near the suggested locations
+
+
 
 ### Module 6 - Use AI responsibly
 
