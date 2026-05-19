@@ -228,8 +228,34 @@ Ask the model to summarize everything you talked about -> go into a new chat, sa
 
 ### Module 6 - Use AI responsibly
 
+Nothing super-useful here. Mostly boring stuff around safety and complience.
+
+#### AI Agents
+
+An AI agent operates using three components:
+1. Model: When an agent a goal, the model uses it's training data to predict which tasks are necessary to achieve that goal and the tools needed.
+2. Permissions: Agents can connect to other software and tools using specific permissions the user gives it. This serves as a guardrail.
+3. Goals: an objective you provide the agent with, such as "organize the q3 kickoff meeting". The agent operates in a continuous loop until finished:
+	- analyze
+	- act
+	- observe
+
+#### Best practices for directing AI agents
+
+- start with a clear, specific goal => Draft a 3-email sequence for our new product launch
+- manage permissions wisely => avoid giving master permissions, grant only specific permissions 
+- always evaluate 
+- iterate and refine => 
 
 
+## AI for Brainstorming and Planning
+
+
+### Module 1 - Brainstorm ideas in Gemini
+
+### Module 2 - Create a project timeline in Geminin
+
+### Module 3 - Build a knowledge hub in NotebookLM
 
 ## Notes
 
