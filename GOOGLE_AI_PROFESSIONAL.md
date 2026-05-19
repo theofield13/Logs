@@ -198,7 +198,33 @@ Prompt 2: Using those locations, create a logical day-by-day itinerary that mini
 
 Prompt 3: For each day of the itinerary, suggest a few restaurants located near the suggested locations
 
+#### Practice prompt chaining in Gemini
 
+Lab tasks:
+Step 1: Brainstorm options
+Click the “New chat” button to start a new chat with Gemini. Then, paste the prompt below and replace the text in [brackets] with your own details.
+
+I want to expand my [company description, e.g. painting company]'s service offerings. Act as my business advisor and list 3 complementary services we could provide. Keep in mind: [context and constraints, e.g. we have a team of 4 painters and tight office space].
+
+Read Gemini’s response. The next steps will build on this foundation.
+
+Step 2: Evaluate the options
+In the same chat with Gemini, ask questions to evaluate the options Gemini provided in the previous step. You can ask about specific criteria or potential challenges. For example:
+
+Which of these can we launch within 6 months?
+
+Read Gemini’s response. The next steps will build on this foundation.
+
+Step 3: Create an action plan
+In the same chat with Gemini, paste the prompt below and replace the text in [brackets] with your own details.
+
+If I want to move forward with [1 option from Gemini’s response in the previous step], what tasks should I complete this week?
+
+Use Gemini's response to build your task list for the week.
+
+**A hack for giving Gemini context in a new windows**
+
+Ask the model to summarize everything you talked about -> go into a new chat, say you already working on an something in an old chat and paste summary. Re-upload any attachements and go
 
 ### Module 6 - Use AI responsibly
 
@@ -211,3 +237,39 @@ Prompt 3: For each day of the itinerary, suggest a few restaurants located near 
 - a simple framework for writing good prompts: persona, task, format, context which I think is simple but very useful
 - Nothing super-surprising yet
 - It's still unclear to me when I shuld apply all the techniques I have learned. Hopefully it will be clear after next session
+
+These tips can be used right away:
+
+- It works the best when given clear instructions - if you ask your coworker to buy you a sandwich it could be 50 different sandwiches 
+- general structure of a prompt:
+	- persona
+	- task
+	- format
+	- context
+
+
+Certain phrases can be more effective
+
+Give AI a process to follow:
+- think step-by-step
+- first x, second y, ...
+
+Define the audience and tone:
+- write this for an audience of x
+- the tone shuld be x
+
+set hard constraints
+- write a one paragraph summary
+- focus exclusively on X and don't mention topic Y
+
+Request a critique
+- Critique this text from the perspective of a X
+- play the devil's advocate. What is the strongest counterargument to this?
+
+Generate alternatives
+- give me 3 different versions of this
+- what's an alternative approach to solving this problem?
+
+Deepen or expand on the initial output:
+- Elaborate on point 2
+- provide more detail and specific examples for the section about X
