@@ -5,8 +5,8 @@ poliquin pushdowns pulldown bench
 - MAX @ 22.5
 cuffed hammer curls
 - w @ 8.75 11.25
-- 4 @ 13.75
-- 4 @ 13.75
+- 5 @ 13.75
+- 5 @ 13.75
 - MAX @ 11.25 = 8
 
 2026-05-18
