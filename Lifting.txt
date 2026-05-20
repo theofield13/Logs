@@ -8,6 +8,10 @@ cuffed hammer curls
 - 5 @ 13.75
 - 5 @ 13.75
 - MAX @ 11.25 = 8
+trap 3 raise
+- w : 2
+- 6 @ 3
+- 6 @ 3
 
 2026-05-18
 pullover and press
