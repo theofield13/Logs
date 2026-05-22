@@ -1,3 +1,26 @@
+# History Making Timeless No Gi by Rafael Lovato
+
+Link: https://bjjfanatics.com/products/history-making-timeless-no-gi-by-rafael-lovato 
+
+## Volume 1
+
+**Intro	0:00 - 1:49**
+
+- Handfighting important as fuck
+
+**Initial Approach and Winning The Hand Fight - 1:49 - 10:36**
+
+**Clearing Collar Ties and Developing Offensive Positions	10:36 - 17:47**
+
+**Obtaining The Underhook and Utilizing The Snapdown - 17:47 - 29:11**
+
+**Throw By and Takedown Options From Rear Bodylock - 29:11 - 36:30**
+
+**Throw By To Single Leg - 36:30 - 45:41**
+
+**Finishing Options From The Single Leg - 45:41 - (51:51)**
+
+
 # Systematically Attacking From Open Guard Seated Position by Gordon Ryan
 
 https://bjjfanatics.com/products/systematically-attacking-from-open-guard-seated-position-by-gordon-ryan 
